@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class calculateDeposit {
+public class DepositCalculator {
     private final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
